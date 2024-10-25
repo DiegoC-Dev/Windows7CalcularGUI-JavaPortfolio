@@ -1,4 +1,4 @@
-# Windows7CalcularoGUI-JavaProtfolio
+# Windows 7 Calculator GUI Java-Portfolio
 A graphical replica of the Windows 7 calculator developed in Java, focusing solely on the visual interface without logical functionality. This version includes a large number of buttons and various functions accessible through multiple menus, as well as radio buttons to activate specific features. The interface replicates the exact blue color of the original Windows 7 calculator’s buttons and menus for an authentic look.
 
 ## Author
